@@ -1,9 +1,9 @@
 2 GOTO654
-4 REM #        FILE IT        #
-6 REM #DATA MANAGEMENT PROGRAM#
-10 REM# BY    KEITH BAKER     #
-12 REM#                       #
-14 REM#                       #
+4 REM#        FILE IT          #
+5 REM# DATA MANAGEMENT PROGRAM #
+6 REM#     BY KEITH BAKER      #
+7 REM#                         #
+8 REM#                         #
 16 CLEAR 5500:DIM A$(50),B$(50),C$(50),D$(50),E$(50)
 18 CLS3
 20 S$=" "+STRING$(30,"*"):R$=STRING$(80,"*"):U$=" *"+STRING$(28," ")+"*"
